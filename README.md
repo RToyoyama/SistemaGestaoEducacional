@@ -570,9 +570,9 @@ Este projeto é fornecido como material educacional para a disciplina de **Imers
 
 ## 👥 Autor
 
-**Desenvolvedor:** [Seu Nome]  
-**Data de Conclusão:** [Data]  
-**Instituição:** [Instituição Educacional]
+**Desenvolvedor:** Renan Toyoyama  
+**Data de Conclusão:** 07/12/2025  
+**Instituição:** Unicesumar
 
 ---
 
@@ -607,3 +607,4 @@ O **Sistema de Gestão Educacional (SGE)** é um exemplo completo de como desenv
 **Versão:** 1.0  
 **Status:** ✅ Completo  
 **Última Atualização:** 2024
+
